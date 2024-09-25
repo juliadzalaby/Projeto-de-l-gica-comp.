@@ -12,6 +12,6 @@ função { inicio
     }
     escreva (numero negativo)
     {
-    então escreva (n/ + 2)
+    então escreva (n/ × 2)
     }
   }
