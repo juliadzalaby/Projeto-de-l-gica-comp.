@@ -1,0 +1,10 @@
+funcao 
+ inicio ()
+
+ solicitar que o usuario indique a temperatura
+ escreva ('digite a temperatura: ')
+
+ converter para fahrenheit 
+fahrenheit = (celsius * 1,8) + 32
+
+ entao resultado ( n C 
