@@ -1,0 +1,12 @@
+programa
+{ 
+ funcao inicio ()
+ peca ao usuario que solicite a temperatura em celsius 
+escreva ('digite a temperatura em celsius: ')
+
+ converta para fahrenheit
+ fahrenheit= (celsius * 1,8 ) + 32 
+ exiba o resultado
+ (celsius C  e igual a fahrenheit F)
+{ 
+  {
