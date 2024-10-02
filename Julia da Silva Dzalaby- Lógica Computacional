@@ -1,4 +1,4 @@
-# Projeto-de-l-gica-comp.
+programa
 função { inicio
   {
     escreva("digite um numero inteiro: n/ ")
