@@ -1,0 +1,21 @@
+programa {
+    função início() {
+        // Solicite o valor da conta
+        escreva("Digite o valor da conta: ")
+        leia("valor da conta")
+
+        // Solicite a porcentagem da gorjeta
+        escreva("Digite a porcentagem da gorjeta: ")
+        leia("porcentagem da gorjeta")
+
+        // Calcule o valor da gorjeta
+        gorjeta= (porcentagemGorjeta / 100) * valorConta
+
+        // Calcule o total a ser pago
+        total para pagar= valor da conta + gorjeta
+
+        // Exibia os resultados
+        escreva("Valor da gorjeta: ", gorjeta)
+        escreva("Total a ser pago: ", totalAPagar)
+    }
+}
