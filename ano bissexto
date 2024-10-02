@@ -1,0 +1,14 @@
+programa
+{
+  funcao inicio ()
+ Determine se um ano e bissexto
+  se (ano % 4 == 0 ou ano % 400 == 0 ou ano % 100 != 0 
+   entao escreva "ano e bissexto")
+
+  escreva ("digite um ano")
+   resultado
+escreva ("ano e bissexto)
+
+se nao escreva (ano nao e bissexto)
+{
+ {
