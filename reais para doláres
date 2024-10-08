@@ -1,0 +1,13 @@
+programa 
+ {
+   funcao inicio ()
+   escreva("digite o valor da cotacao do dolar")
+   leia("valor da cotacao")
+    escreva("escreva o valor de reais para converter")
+   leia("valor em reais")
+
+   realize a conversao .(" taxa de cambio * R$")
+   exiba o resultado (" R$ = US$")
+   {
+     {
+   
