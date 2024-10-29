@@ -1,17 +1,6 @@
 programa
 função { inicio
-  {
-    escreva("digite um numero inteiro: n/ ")
+    inteiro número,dobro
     leia(número)
-   {
-    se (numero > 0) //verificar se numero e positivo
-    }
-    escreva (número positivo)
-    {
-    senao (numero < 0) //verificar se numero e negativo
-    }
-    escreva (numero negativo)
-    {
-    então escreva (n/ × 2)
-    }
-  }
+    dobro=numero * 2
+    escreva (dobro)
