@@ -1,0 +1,12 @@
+programa {
+  funcao inicio() {
+    real numero, soma
+    escreva ('digite o numero: ')
+    leia (numero)
+
+    some os valores
+
+    escreva ('a soma dos numeros e = , resultado da soma ')
+    exiba o resultado
+  }
+}
